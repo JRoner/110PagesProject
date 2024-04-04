@@ -1,2 +1,1 @@
-# 110PagesProject
-Repo for CSE 110 Project
+"Jacob's User Page"
